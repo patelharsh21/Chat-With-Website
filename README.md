@@ -18,7 +18,7 @@ To run this application, follow these steps:
 
 ### Prerequisites
 
-- Python 3.7 or higher
+- Python 3.10 (recommended)
 - Git
 - OpenAI API key
 
